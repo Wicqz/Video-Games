@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  font-family: 'Silkscreen', cursive;
+  background-color: #0f2417;
+  margin: auto;
+}
+#title {
+  padding: 15px;
+  background-color: #a3d09f;
+  border-radius: 15px;
+}
+h2 {
+  color: white;
+}
+p {
+  padding: 15px;
+  background-color: #a3d09f;
+  border-radius: 15px;
+  font-size: 18px;
+}
+img {
+  padding: 30px;
+  background-color: #a3d09f;
+  border-radius: 15px;
+}
+iframe {
+  border-radius: 15px;
+  border: solid #a3d09f 10px;
+}
+
